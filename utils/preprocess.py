@@ -5,8 +5,8 @@ from sklearn.model_selection import train_test_split
 def load_and_split_data(filepath):
     # Load dataset
     df = pd.read_csv(filepath)
-    X = df.drop(columns=["species"])
-    y = df["species"]
+    X = df.drop(columns=["variety"])
+    y = df["variety"]
 
     # Split into Train and Test sets
     X_train, X_test, y_train, y_test = train_test_split(

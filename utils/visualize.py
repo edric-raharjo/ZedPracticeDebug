@@ -9,8 +9,8 @@ def save_scatter_plot(filepath, output_dir):
     os.makedirs(output_dir, exist_ok=True)
 
     plt.figure(figsize=(6, 4))
-    for species, group in df.groupby("species"):
-        plt.scatter(group["sepal_length"], group["sepal_width"], label=species)
+    for variety, group in df.groupby("variety"):
+        plt.scatter(group["sepal_length"], group["sepal_width"], label=variety)
 
     plt.xlabel("Sepal Length")
     plt.ylabel("Sepal Width")
