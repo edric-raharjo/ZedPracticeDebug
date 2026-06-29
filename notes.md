@@ -57,3 +57,10 @@ Press `Ctrl + Shift + D`.
 3. To select all occurrences of the function name, press `Ctrl + Shift + L`.
 4. Use the arrow keys to navigate between the multi-buffer results.
 5. Press `Alt + Enter` to jump to the file containing the selected occurrence.
+
+---
+
+## 7. Selecting Lines and Deleting
+
+1. Ctrl + L and hold/press to select lines.
+2. Deleting Line by Line — Ctrl + Shift + K
