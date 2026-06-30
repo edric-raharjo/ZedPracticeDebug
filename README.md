@@ -132,7 +132,7 @@ root/main.py:14
 14  >   save_scatter_plot(csv_path, graph_dir)
 ```
 
-**<module>**\
+**\<module\>**\
 root/main.py:28
 ```python
 27  >   if __name__ == "__main__":
