@@ -133,7 +133,7 @@ root/main.py:14
 ```
 
 **<module>**\
-root/main.py:28\
+root/main.py:28
 ```python
 27  >   if __name__ == "__main__":
 28  >        main()
