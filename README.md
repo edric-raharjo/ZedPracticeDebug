@@ -4,7 +4,7 @@
 ---
 
 - [1. Process](#1-process)
-- [2. .zed/debug.json](#2-the-zeddebugjson)
+- [2. .zed/debug.json](#2-zeddebugjson)
 
 ---
 
