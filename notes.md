@@ -64,3 +64,10 @@ Press `Ctrl + Shift + D`.
 
 1. Ctrl + L and hold/press to select lines.
 2. Deleting Line by Line — Ctrl + Shift + K
+
+---
+
+## 8. Split and change focus
+
+1. Ctrl + K then Left/Right to split the editor.
+2. Ctrl + K then Ctrl + Left/Right to change focus between split editors.
